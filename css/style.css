@@ -1,0 +1,252 @@
+.top-header{
+    background-color: #f4f6f3;
+    font-size: 14px;
+}
+
+.top-nav-link{
+    color: gray;
+}
+
+.top-nav-link:hover{
+    color: #09a6b2;
+}
+
+.top-header-text{
+    margin-top: 10px;
+}
+
+.top-header .col-md-6{
+    height: 35px;
+}
+
+.main-header{
+    padding-top: 50px;
+}
+
+.header-icon{
+    height: 14px;
+}
+
+.search{
+    height: 25px;
+}
+
+.logo-text{
+    margin-left: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+
+.logo-circle{
+    background-color: #09a6b2;
+    border-radius: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0;
+    font-weight: 400;
+    color: white;
+}
+
+.logo-dot{
+    color: lightgray;
+}
+
+.dropdown-button{
+    background-color: #f4f6f3;
+}
+
+.dropdown-button:hover{
+    background-color: #09a6b2;
+}
+
+.dropdown-button1{
+    background-color: #09a6b2;
+}
+
+.dropdown1{
+    margin-right: 5px;
+}
+
+.dropdown2{
+    margin-right: 10px;
+}
+
+.search{
+    margin-right: 100px;
+}
+
+.main-nav-link{
+    color: black;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.main-nav-link:hover{
+    color: #09a6b2;
+}
+
+.left{
+    text-align: left;
+}
+
+.left1{
+    justify-content: left;
+}
+
+.news{
+    background-color: #09a6b2;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.men-collection{
+    background-color: black;
+    color: white;
+}
+
+.carousel-caption {
+    width: 40%;
+    position: absolute;
+    left: 630px;
+    top: 0;
+}
+
+.carousel-text{
+    color: black;
+}
+
+.shop-now{
+    background-color: black;
+    color: white;
+    position: relative;
+    right: 200px;
+}
+
+.sales{
+    margin: 20px;
+}
+
+.line{
+    color: #09a6b2;
+    padding-left: 20px;
+}
+
+.arrows{
+    padding-right: 100px;
+}
+
+.arrow{
+    background-color: white;
+}
+
+.arrow:hover{
+    background-color: #09a6b2;
+}
+
+.subtext{
+    color: gray;
+    padding-left: 10px;
+}
+
+.item-name{
+    font-size: 19px;
+    color: #484e4e;
+}
+
+.add-to-cart{
+    background-color: #484e4e;
+    color: white;
+    border-radius: 5px;
+    position: relative;
+    left: 35px;
+}
+
+.section2{
+    margin-top: 50px;
+}
+
+.welcome-text{
+    color: grey;
+}
+
+.section4{
+    margin-top: 50px;
+}
+
+.logos{
+    margin-top: 10px;
+}
+
+.logos{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.logo{
+    padding-bottom: 50px;
+}
+
+.top-footer{
+    background-color: #d6d6d6;
+}
+
+.footer-header{
+    padding: 30px;
+}
+
+.email{
+    margin-top: 30px;
+    margin-right: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 3px solid yellow;
+    background-color: #d6d6d6;
+}
+
+.sign-up{
+    margin-top: 30px;
+    margin-right: 10px;
+    background-color: #484e4e;
+    color: white;
+    border-radius: 5px;
+}
+
+.main-foot{
+    padding-top: 50px;
+}
+
+.like{
+    margin-left: 130px;
+    background-color: blue;
+    color: white;
+}
+
+.profile{
+    margin: 5px;
+}
+
+.main-foot{
+    background-color: #434b4d;
+}
+
+.footer-h5{
+    color: #d6d6d6;
+}
+
+.footer-li{
+    color: #09a6b2;
+}
+
+.gray{
+    color: #d6d6d6;
+}
+
+.colophon{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #434b4d;
+    color: white;
+}
